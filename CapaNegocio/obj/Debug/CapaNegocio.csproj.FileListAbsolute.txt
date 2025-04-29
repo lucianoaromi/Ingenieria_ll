@@ -1,0 +1,228 @@
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\GitHub\Taller2\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\GitHub\Taller2\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\GitHub\Taller2\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\GitHub\Taller2\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\BouncyCastle.Crypto.dll
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\itextsharp.dll
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\itextsharp.xmlworker.dll
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\itextsharp.xml
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\CapaNegocio.dll.config
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\System.Memory.dll
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\Microsoft.Identity.Client.dll
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\Azure.Core.dll
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\Azure.Identity.dll
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\System.ValueTuple.dll
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\System.Buffers.dll
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\System.Numerics.Vectors.dll
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\System.Text.Json.dll
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\System.Memory.Data.dll
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\System.Text.Encodings.Web.dll
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\CapaDatos.dll.config
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\System.Memory.xml
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\Microsoft.Identity.Client.xml
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\Azure.Core.xml
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\Azure.Identity.xml
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\System.ValueTuple.xml
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\System.Buffers.xml
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\System.Numerics.Vectors.xml
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\System.Text.Json.xml
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\System.Memory.Data.xml
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\System.Text.Encodings.Web.xml
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\GitHub\Taller2\CapaNegocio\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\GitHub\Taller2\CapaNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\CapaNegocio.dll.config
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\itextsharp.dll
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\System.Memory.dll
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\Azure.Core.dll
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\Azure.Identity.dll
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\System.ValueTuple.dll
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\System.Buffers.dll
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\System.Text.Json.dll
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\System.Memory.Data.dll
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\CapaDatos.dll.config
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\itextsharp.xml
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\System.Memory.xml
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\Azure.Core.xml
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\Azure.Identity.xml
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\System.ValueTuple.xml
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\System.Buffers.xml
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\System.Text.Json.xml
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\System.Memory.Data.xml
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\lucha\OneDrive\Escritorio\Taller2 - copia\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\CapaNegocio.dll.config
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\BouncyCastle.Crypto.dll
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\itextsharp.dll
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\itextsharp.xmlworker.dll
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\System.Memory.dll
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\Microsoft.Identity.Client.dll
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\Azure.Core.dll
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\Azure.Identity.dll
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\System.ValueTuple.dll
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\System.Buffers.dll
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\System.Numerics.Vectors.dll
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\System.Text.Json.dll
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\System.Memory.Data.dll
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\System.Text.Encodings.Web.dll
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\CapaDatos.dll.config
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\itextsharp.xml
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\System.Memory.xml
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\Microsoft.Identity.Client.xml
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\Azure.Core.xml
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\Azure.Identity.xml
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\System.ValueTuple.xml
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\System.Buffers.xml
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\System.Numerics.Vectors.xml
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\System.Text.Json.xml
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\System.Memory.Data.xml
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\System.Text.Encodings.Web.xml
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\GitHub\Restaurant\CapaNegocio\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\GitHub\Restaurant\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\GitHub\Restaurant\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\GitHub\Restaurant\CapaNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
+C:\GitHub\Restaurant\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\GitHub\Restaurant\CapaNegocio\obj\Debug\CapaNegocio.pdb
