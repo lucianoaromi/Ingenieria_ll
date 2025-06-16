@@ -12,11 +12,11 @@ namespace CapaNegocio
 {
     public class CN_Producto
     {
-        // "objcd_usuario" es una instancia de la clase CD_Usuario llamada objcd_usuario
+        // "objcd_producto" es una instancia de la clase CD_Producto llamada objcd_producto
         private CD_Producto objcd_producto = new CD_Producto();
 
-        //Mismo metodo "Listar" que se halla en la clase CD_Usuario de la capa de datos
-        //Retorna la lista que posee la clase "CD_Usuario" que se encuentra en la capa de datos
+        //Mismo metodo "Listar" que se halla en la clase CD_Producto de la capa de datos
+        //Retorna la lista que posee la clase "CD_Producto" que se encuentra en la capa de datos
         public List<Producto> Listar()
         {
             return objcd_producto.Listar();

@@ -13,10 +13,10 @@ namespace CapaDatos
 {
     public class CD_Producto
     {
-        // Metodo que permite listar todos los usuarios desde la base de datos
+        // Metodo que permite listar todos los productos desde la base de datos
         public List<Producto> Listar()
         {
-            //Genera la variable de tipo Lista que contiene Usuarios
+            //Genera la variable de tipo Lista que contiene Productos
             List<Producto> lista = new List<Producto>();
 
             //Conecta a la base por medio de la "cadena de conexion" -> (Conexiones.(clase en la capa de datos))
@@ -45,7 +45,7 @@ namespace CapaDatos
                     {
                         while (dr.Read())
                         {
-                            // crea un nuevo objeto de la clase Usuario, y agrega a la lista "lista".
+                            // crea un nuevo objeto de la clase Producto, y agrega a la lista "lista".
                             lista.Add(new Producto()
                             {
                                 IdProducto = Convert.ToInt32(dr["IdProducto"]),
@@ -63,7 +63,7 @@ namespace CapaDatos
                     }
 
                 }
-                //si se produce una excepción se crea una nueva lista de usuarios, se garantiza que lista esté en un estado válido y vacío
+                //si se produce una excepción se crea una nueva lista de productos, se garantiza que lista esté en un estado válido y vacío
                 catch (Exception ex)
                 {
 
@@ -77,7 +77,7 @@ namespace CapaDatos
 
         }
 
-        //Parametros de entrada y salida - "obj" objeto declaro de tipo usuario
+        //Parametros de entrada y salida - "obj" objeto declaro de tipo producto
         public int Registrar(Producto obj, out string Mensaje)
         {
             int idproductogenerado = 0;
@@ -127,7 +127,7 @@ namespace CapaDatos
             return idproductogenerado;
         }
 
-        //Parametros de entrada y salida - "obj" objeto declaro de tipo usuario
+        //Parametros de entrada y salida - "obj" objeto declaro de tipo producto
         public bool Editar(Producto obj, out string Mensaje)
         {
             bool respuesta = false;
@@ -180,7 +180,7 @@ namespace CapaDatos
 
 
 
-        //Parametros de entrada y salida - "obj" objeto declaro de tipo usuario
+        //Parametros de entrada y salida - "obj" objeto declaro de tipo producto
         public bool Eliminar(Producto obj, out string Mensaje)
         {
             bool respuesta = false;
