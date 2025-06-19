@@ -12,14 +12,17 @@ namespace CapaDatos
     public class CD_Reporte
     {
 
-        
+        // Metodo que permite listar todos los reportes de ventas desde la base de datos
         public List<ReporteVenta> Venta(string fechainicio, string fechafin, int idusuario)
-        { 
+        {
+            //Genera la variable de tipo Lista que contiene Reportes
             List<ReporteVenta> lista = new List<ReporteVenta>();
- 
+
+            //Conecta a la base de datos
             using (SqlConnection oconexion = new SqlConnection(Conexion.cadena))
             {
-  
+
+                //Capturador de errores por si falla la conexion a la BD
                 try
                 {
                     StringBuilder query = new StringBuilder();
@@ -73,9 +76,13 @@ namespace CapaDatos
         {
             try
             {
+                //Realiza la conexion a la base de datos 
                 using (SqlConnection oconexion = new SqlConnection(Conexion.cadena))
                 {
+                    //Recibe como parametro el nombre del procedimiento almacenado 
                     SqlCommand cmd = new SqlCommand("usp_ActualizarEstadoEntrega", oconexion);
+
+                    //Parametros de entrada
                     cmd.CommandType = CommandType.StoredProcedure;
                     cmd.Parameters.AddWithValue("@IdVenta", idVenta);
                     cmd.Parameters.AddWithValue("@EstadoEntrega", estadoEntrega);
@@ -89,6 +96,7 @@ namespace CapaDatos
                         Direction = ParameterDirection.Output
                     };
 
+                    //Parametros de salida
                     cmd.Parameters.Add(resultadoParam);
                     cmd.Parameters.Add(mensajeParam);
 
@@ -113,10 +121,14 @@ namespace CapaDatos
         {
             try
             {
+                //Realiza la conexion a la base de datos 
                 using (SqlConnection oconexion = new SqlConnection(Conexion.cadena))
                 {
+                    //Recibe como parametro el nombre del procedimiento almacenado 
                     SqlCommand cmd = new SqlCommand("usp_ActualizarEstadoPago", oconexion);
+       
                     cmd.CommandType = CommandType.StoredProcedure;
+                    //Parametros de entrada
                     cmd.Parameters.AddWithValue("@IdVenta", idVenta);
                     cmd.Parameters.AddWithValue("@EstadoPago", estadoPago);
 
@@ -128,7 +140,7 @@ namespace CapaDatos
                     {
                         Direction = ParameterDirection.Output
                     };
-
+                    //Parametros de salida
                     cmd.Parameters.Add(resultadoParam);
                     cmd.Parameters.Add(mensajeParam);
 
