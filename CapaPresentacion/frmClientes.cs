@@ -273,7 +273,7 @@ namespace CapaPresentacion
 
             if (objcliente.IdCliente == 0)
             {
-                //Ejecuta el metodo Registrar de la Clase Usuario en la Cap de Neg con sus respectivos parametros, retornando el idusuario
+                //Ejecuta el metodo Registrar de la Clase Cliente en la Cap de Neg con sus respectivos parametros, retornando el idCliente
                 int idclientegenerado = new CN_Cliente().Registrar(objcliente, out mensaje);
 
                 if (idclientegenerado != 0)
@@ -293,7 +293,7 @@ namespace CapaPresentacion
                 }
 
             }
-            //Si el objeto idusuario no es igual a 0 se accede a editar el usario seleccionado del datagrid
+            //Si el objeto idCliente no es igual a 0 se accede a editar el cliente seleccionado del datagrid
             else
             {
                 bool resultado = new CN_Cliente().Editar(objcliente, out mensaje);

@@ -16,7 +16,7 @@ namespace CapaDatos
         // Metodo que permite listar todos los usuarios desde la base de datos
         public List<Cliente> Listar()
         {
-            //Genera la variable de tipo Lista que contiene Usuarios
+            //Genera la variable de tipo Lista que contiene Clientes
             List<Cliente> lista = new List<Cliente>();
 
             //Conecta a la base por medio de la "cadena de conexion" -> (Conexiones.(clase en la capa de datos))
@@ -28,11 +28,10 @@ namespace CapaDatos
                 {
                     StringBuilder query = new StringBuilder();
 
-                    //Consulta a la BD la tabla Usuario
+                    //Consulta a la BD la tabla Cliente
                     query.AppendLine("select c.IdCliente,c.Apellido,c.Nombre,c.Direccion,c.Telefono,c.Estado from cliente c");
 
-                    //r y u son objetos de tipo Rol y Usuario respectivamente
-                    //query.AppendLine("inner join rol r on r.IdRol = u.IdRol");
+                   
 
                     SqlCommand cmd = new SqlCommand(query.ToString(), oconexion);
                     cmd.CommandType = CommandType.Text;
@@ -45,7 +44,7 @@ namespace CapaDatos
                     {
                         while (dr.Read())
                         {
-                            // crea un nuevo objeto de la clase Usuario, y agrega a la lista "lista".
+                            // crea un nuevo objeto de la clase Cliente, y agrega a la lista "lista".
                             lista.Add(new Cliente()
                             {
                                 IdCliente = Convert.ToInt32(dr["IdCliente"]),
@@ -57,16 +56,13 @@ namespace CapaDatos
                                 Telefono = dr["Telefono"].ToString(),
                                 Estado = Convert.ToBoolean(dr["Estado"]),
 
-                                //Crea una instancia de la clase Rol y establece
-                                //sus propiedades IdRol y Descripcion con valores leídos desde un objeto SqlDataReader
-                                //oRol = new Rol() { IdRol = Convert.ToInt32(dr["IdRol"]), Descripcion = dr["Descripcion"].ToString() }
 
                             });
                         }
                     }
 
                 }
-                //si se produce una excepción se crea una nueva lista de usuarios, se garantiza que lista esté en un estado válido y vacío
+                //si se produce una excepción se crea una nueva lista de clientes, se garantiza que lista esté en un estado válido y vacío
                 catch (Exception ex)
                 {
 
@@ -80,7 +76,7 @@ namespace CapaDatos
 
         }
 
-        //Parametros de entrada y salida - "obj" objeto declaro de tipo usuario
+        //Parametros de entrada y salida - "obj" objeto declaro de tipo cliente
         public int Registrar(Cliente obj, out string Mensaje)
         {
             int idclientegenerado = 0;
@@ -131,7 +127,7 @@ namespace CapaDatos
 
 
 
-        //Parametros de entrada y salida - "obj" objeto declaro de tipo usuario
+        //Parametros de entrada y salida - "obj" objeto declaro de tipo cliente
         public bool Editar(Cliente obj, out string Mensaje)
         {
             bool respuesta = false;
@@ -182,7 +178,7 @@ namespace CapaDatos
 
 
 
-        //Parametros de entrada y salida - "obj" objeto declaro de tipo usuario
+        //Parametros de entrada y salida - "obj" objeto declaro de tipo cliente
         public bool Eliminar(Cliente obj, out string Mensaje)
         {
             bool respuesta = false;
